@@ -1,0 +1,13 @@
+#carrega{
+    width: 100vw;
+    height: 20px;
+}
+#separa{
+    display: flex;
+}
+#aba{
+    height: 820px;
+}
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
