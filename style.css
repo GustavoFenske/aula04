@@ -43,3 +43,17 @@ font-weight: 700;
 *{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.centro{
+    display: flex;
+}
+
+.tlb_esq{
+    margin: 0px auto auto 50px;
+}
+
+.espaçadopae{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
